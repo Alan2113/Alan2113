@@ -2,6 +2,7 @@
 - [Numerical-methods-library](https://github.com/Alan2113/numerical-methods-library) — biblioteka metod numerycznych
 - [Lattice-Gas-Automata-CUDA](https://github.com/Alan2113/Lattice-Gas_Automata-CUDA) — symulacja LGA na GPU
 - [Water-Air-Temperature-Monitor](https://github.com/kacper207/Water-Air-Temperature-Monitor) — stacja pomiarowa temperatury powietrza/wody
+- [Optymalizacja_projekty](https://github.com/Alan2113/Optymalizacja_projekty) — zadania z optymalizacji tworzone na zajęciach
 
 ## 🐍 Python
 - [Optymalizator-trasy-dronow](https://github.com/Alan2113/Optymalizator-trasy-dronow) — optymalizator tras dla dronów
